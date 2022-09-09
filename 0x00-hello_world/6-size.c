@@ -5,6 +5,9 @@
  */
 int main(void)
 {
+	int a = 32;
+	int a = 64;
+
 	printf("Size of a char: %d\n", sizeof(char));
 	printf("Size of an int: %d\n", sizeof(int));
 	printf("Size of a long int: %d\n", sizeof(long int));
