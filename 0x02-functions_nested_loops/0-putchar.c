@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
 * main - Prints _putchar as a message.
@@ -21,7 +21,7 @@ for (count = 0; count < sz; count++)
 
 {
 
-putchar(str[count]);
+_putchar(str[count]);
 
 }
 
