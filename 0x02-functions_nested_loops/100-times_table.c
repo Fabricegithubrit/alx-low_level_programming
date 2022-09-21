@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
 *print_times_table - this program Prints the times table
