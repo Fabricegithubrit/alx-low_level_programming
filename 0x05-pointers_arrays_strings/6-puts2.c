@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 
-
 /**
  *puts2 - print alternating chars of string
  *@str: string, is the parameter pased
