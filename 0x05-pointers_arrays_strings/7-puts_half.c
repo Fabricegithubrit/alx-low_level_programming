@@ -3,6 +3,7 @@
 #include "main.h"
 
 
+
 /**
  *puts_half - prints the last half of a string
  *@s: pointer to the string variables
