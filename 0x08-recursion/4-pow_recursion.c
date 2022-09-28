@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * _pow_recursion - this function returns the exponent or power of a number
